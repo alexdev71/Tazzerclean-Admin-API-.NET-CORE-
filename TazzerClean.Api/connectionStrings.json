@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "Data": "Server=tcp:tazzercleanuk.database.windows.net,1433;Initial Catalog=TazzerCleanUK;Persist Security Info=False;User ID=tazzercleanadmin;Password=tazzerclean2!;MultipleActiveResultSets=True;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+  }
+}
